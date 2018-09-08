@@ -1,2 +1,2 @@
 # test-git
-Repositoryum github mal auszuprobieren
+Repositor um github mal auszuprobieren
